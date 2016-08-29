@@ -1,0 +1,16 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "Concept of node docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Quinn",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.5.4",
+    "express": "^4.14.0"
+  }
+}
